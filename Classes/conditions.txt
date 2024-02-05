@@ -1,0 +1,8 @@
+Numbers
+Strings
+Booleans
+---
+Lists
+Dictionaries
+
+Shopping carts?
