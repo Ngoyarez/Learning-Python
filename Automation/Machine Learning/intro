@@ -1,0 +1,17 @@
+Steps
+1. Import the data
+2. Clean the data - remove duplicates, irrelevants
+3. Split the data into Training/Test Sets
+4. Create a model - choosing your algorithm(scikit-learn)
+5. Train the model
+6. Make predictions
+7. Evaluate and improve
+
+Libraries and tools
+Numpy - Multidimensional array
+Pandas - Data analysis library
+MatPlotLib - 2D plotting library for creating graphs and plots
+Scikit-Learn - Provides common algorithms such as decision trees and neural networks
+
+Tools
+Jupyter-notebook
